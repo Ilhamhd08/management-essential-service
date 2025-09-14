@@ -1,0 +1,1 @@
+The system manages essential master data entities, including Provinces, Branches, and Stores. Each Province comprises multiple branches, and each branch is responsible for managing its own set of stores.
